@@ -1,0 +1,16 @@
+#campuslifetext
+{
+    font-size: 24px;
+    font-family: comic;
+}
+#campuslifeimg
+{
+    border-radius: 50px;
+    border-style: solid;
+    padding: 20px;
+    border-color: black;
+}
+body
+{
+    text-align: center;
+}
